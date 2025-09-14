@@ -1,2 +1,17 @@
 # Datawhale_learning_blog01
-该blog是Datawhale《理工科-大模型入门实训课程》的心得笔记，【教程地址】https://github.com/datawhalechina/llm-preview?tab=readme-ov-file
+该仓库用于记录我在 **Datawhale《理工科-大模型入门实训课程》** 的学习与心得，【教程地址】https://github.com/datawhalechina/llm-preview?tab=readme-ov-file
+
+## 📘 学习背景
+一直想系统学习大模型，但之前的学习零散且缺乏督促。这次通过 Datawhale 实训，有机会和优秀的小伙伴们组队，逐步构建起完整的知识体系。
+
+## 🎯 学习目标
+- 了解大模型基础原理  
+- 掌握数据处理、训练与应用流程  
+- 完成课程中的阶段性任务  
+- 尝试独立完成一个实践项目  
+
+## 📝 博客文章
+
+## 🙏 致谢
+感谢 **Datawhale** 提供的学习机会，也感谢组队伙伴们的陪伴与鼓励。  
+希望通过本仓库持续输出内容，见证我的学习成长。  
