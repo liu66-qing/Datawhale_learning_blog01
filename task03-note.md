@@ -11,7 +11,7 @@
 from openai import OpenAI
 
 
-client = OpenAI(api_key="your api key",    
+client = OpenAI(api_key="sk-guogzwqpoxuwhaxqsqpzodqrcwekkeytgtbueorojsniqmhd",    
                 base_url="https://api.siliconflow.cn/v1")
 
 prompt = '''角色：你是 IEEE 会议论文的资深语言编辑，熟悉 IEEE 期刊的学术语言规范。  
@@ -49,7 +49,7 @@ print(f"带有技巧的提问的结果：\n{response_with_skill.choices[0].messa
 from openai import OpenAI
 
 
-client = OpenAI(api_key="your api key",    
+client = OpenAI(api_key="sk-guogzwqpoxuwhaxqsqpzodqrcwekkeytgtbueorojsniqmhd",    
                 base_url="https://api.siliconflow.cn/v1")
 
 prompt = '''角色：
@@ -85,7 +85,7 @@ print(f"带有技巧的提问的结果：\n{response_with_skill.choices[0].messa
 from openai import OpenAI
 
 
-client = OpenAI(api_key="your api key",     # 记得替换成自己的 API Key
+client = OpenAI(api_key="sk-guogzwqpoxuwhaxqsqpzodqrcwekkeytgtbueorojsniqmhd",     
                 base_url="https://api.siliconflow.cn/v1")
 
 prompt = '''
