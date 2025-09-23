@@ -1,4 +1,5 @@
 ## 提示词
+### 以下根据Datawhale教程文档进行我个人的一点整理
 
 ![提示词图片](https://github.com/liu66-qing/Datawhale_learning_blog01/blob/main/%E6%8F%90%E7%A4%BA%E8%AF%8D.png)
 
